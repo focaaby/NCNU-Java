@@ -1,0 +1,8 @@
+new Toyota -10 -20
+west Toyota 23
+north Toyota 37
+new YuerYuer 23 45
+east Toyota 10
+south YuerYuer 32
+east YuerYuer 58
+end
